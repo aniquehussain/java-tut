@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1949deaf-6040-46a0-b9eb-574cc1aa07c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ggW8XWf68pfImPaTGe1k1iKljC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../File Reader" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Syed Anique\Desktop\Java Projects\File" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewFileReader">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.syedanique.Main" />
+      <module name="File" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syedanique.tryWithResourcesFileReader.NewFileReader" />
+      <module name="File" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syedanique.tryWithResourcesFileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OldFileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syedanique.learningOldFileReader.OldFileReader" />
+      <module name="File" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syedanique.learningOldFileReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewFileReader" />
+        <item itemvalue="Application.OldFileReader" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1949deaf-6040-46a0-b9eb-574cc1aa07c2" name="Default Changelist" comment="" />
+      <created>1598536559259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598536559259</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598700881979">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="319" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.738@0.0.1366.738" timestamp="1598700881979" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1598714963751">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598714963751" />
+    <state width="1323" height="42" key="GridCell.Tab.0.bottom" timestamp="1598714964946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="42" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598714964946" />
+    <state width="1323" height="42" key="GridCell.Tab.0.center" timestamp="1598714964946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="42" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598714964946" />
+    <state width="1323" height="42" key="GridCell.Tab.0.left" timestamp="1598714964946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="42" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598714964946" />
+    <state width="1323" height="42" key="GridCell.Tab.0.right" timestamp="1598714964946">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="42" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598714964946" />
+    <state x="213" y="85" width="939" height="653" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598541834615">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="85" width="939" height="653" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1598541834615" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.syedanique.exceptions.Error" package="com.syedanique.exceptions" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
